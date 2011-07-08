@@ -1,0 +1,3 @@
+5.015000  Fri, 08 Jul 2011 11:37:58 +0200
+  * First stand-alone release to CPAN. This release is identical to the version
+    of perlfaq included with the perl code as of 5.15.0.
