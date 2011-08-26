@@ -1,3 +1,11 @@
+5.015003  Fri, 26 Aug 2011 14:37:47 +0200
+
+  * Replace old bookmarks.cpan link with www.perl.org and learn.perl.org
+    (Leo Lapworth).
+  * Fix or remove many broken links (Leo Lapworth).
+  * Correct some POD markup (Father Chrysostomos).
+  * Add a note on searching perlfaq (Matthew Horsfall).
+
 5.015000  Fri, 08 Jul 2011 11:37:58 +0200
   * First stand-alone release to CPAN. This release is identical to the version
     of perlfaq included with the perl code as of 5.15.0.
